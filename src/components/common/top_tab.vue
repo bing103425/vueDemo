@@ -116,7 +116,7 @@ router-link{
     background-color: #0457b7;
 }
 .bluebg{
-    height: 50px;
+    /* height: 50px; */
     background-color: #0457b7;
     opacity: 0.9;
 }
